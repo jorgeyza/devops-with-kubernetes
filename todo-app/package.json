@@ -1,0 +1,16 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}
