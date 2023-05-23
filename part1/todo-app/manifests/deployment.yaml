@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: todoapp
-          image: jorgeyza/dwk-todoapp:0.1
+          image: jorgeyza/dwk-todoapp:0.2
