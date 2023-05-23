@@ -1,6 +1,6 @@
 # [Devops with Kubernetes](https://devopswithkubernetes.com/)
 
-This repository contains exercise solutions the Devops with Kubernetes course from the University of Helsinki.
+This repository contains exercises solutions for the Devops with Kubernetes course from the University of Helsinki.
 
 ## Part 1 - [Deploy, Debugging, Networking, and Storage](https://devopswithkubernetes.com/part-1)
 
